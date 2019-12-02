@@ -1,8 +1,8 @@
 {
-    "remotePath": "./public_html/88726059",
+    "remotePath": "../public_html/88726059",
     "host": "angsila.cs.buu.ac.th",
     "username": "61160025",
-    "password": "330020am--",
+    "password": "3300200am--",
     "port": 22,
     "secure": false,
     "protocol": "sftp",
@@ -22,6 +22,6 @@
         "extensionsToInclude": [
             ""
         ],
-        "path":"../home/BUU/61160025/public_html/88726059"
+        "path":"../public_html/88726059"
     }
 }
